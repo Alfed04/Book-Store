@@ -1,4 +1,3 @@
-<!-- 
 Step-1: Create Node.js project from scratch
 Step-2: Create our first http route
 Step-3: Add mongoDB and mongoose to the Node.js 
@@ -21,6 +20,5 @@ Step-18: Show Books list as card
 Step-19: Make Book Card a single component
 Step-20: You can Add Book Model
 Step-21: You can improve UX with beautiful alert (notistack)
- -->
 
 
